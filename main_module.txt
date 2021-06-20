@@ -2,4 +2,7 @@ main module contains following tabs:
 sign-up
 sign-in
 User access Granted
+
 on quit
+=======
+bugs cleared and ready fo release
