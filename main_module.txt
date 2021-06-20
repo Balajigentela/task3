@@ -1,1 +1,2 @@
 main module contains following tabs:
+sign-up
